@@ -1,0 +1,37 @@
+footer {
+    background-color: #96e87d;
+    padding: 100px 0;
+    color: #150202;
+  }
+  footer h1 {
+    margin-bottom: 30px;
+    color: #e94560;
+    font-weight: 800;
+    font-style: italic;
+  }
+  footer .img {
+    background-color: #134a89;
+    padding: 15px 20px;
+    border-radius: 5px;
+  }
+  footer .img i {
+    font-size: 20px;
+    margin: 5px;
+  }
+  footer .img span {
+    margin-top: 5px;
+  }
+  footer p {
+    font-size: 17px;
+    font-weight: 300;
+   
+    margin-bottom: 20px;
+  }
+  footer h2 {
+    margin-bottom: 20px;
+  }
+  footer li {
+    margin-bottom: 10px;
+    font-size: 15px;
+    
+  }
